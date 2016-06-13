@@ -82,6 +82,7 @@ object ToplevelCommands {
   register(Repartition)
   register(SampleQC)
   register(SeqrServerCommand)
+  register(TDTCommand)
   register(PrintSchema)
   register(ShowGlobalAnnotations)
   register(VariantQC)
